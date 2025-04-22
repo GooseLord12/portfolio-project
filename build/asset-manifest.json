@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-project/static/css/main.cf890fdb.css",
+    "main.js": "/portfolio-project/static/js/main.c886251e.js",
+    "static/media/game knight.png": "/portfolio-project/static/media/game knight.c7cb3a32230fc60abdff.png",
+    "static/media/canyon.jpg": "/portfolio-project/static/media/canyon.0c04dd6d6d0594c19341.jpg",
+    "static/media/Homepage.png": "/portfolio-project/static/media/Homepage.5ed67ed17285e6efd399.png",
+    "static/media/bg.jpg": "/portfolio-project/static/media/bg.178cc285f85dd5626ac1.jpg",
+    "index.html": "/portfolio-project/index.html",
+    "main.cf890fdb.css.map": "/portfolio-project/static/css/main.cf890fdb.css.map",
+    "main.c886251e.js.map": "/portfolio-project/static/js/main.c886251e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.c886251e.js"
+  ]
+}
